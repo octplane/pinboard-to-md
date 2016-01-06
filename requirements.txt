@@ -1,0 +1,3 @@
+requests==2.9.1
+pinboard==0.5.10
+python-frontmatter==0.2.1
